@@ -1,2 +1,3 @@
-# Data-Analysis-Project2
-Built an interactive sales dashboard using Microsoft Power BI to analyze sales trends, customer behavior, and regional performance using DAX and Power Query.
+#📱 Project: Mobile Sales Analytics Dashboard
+##🎯 Project Objective
+To analyze mobile sales data and develop an interactive dashboard using Microsoft Power BI that provides insights into sales performance, customer behavior, and regional trends to support data-driven business decisions.
