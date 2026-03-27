@@ -14,7 +14,7 @@ To analyze mobile sales data and develop an interactive dashboard using Microsof
 -	Which factors influence high sales and customer satisfaction?
 
 ## Dashboard
-- <img width="1302" height="732" alt="Screenshot 2026-03-22 230631" src="https://github.com/user-attachments/assets/337b08c4-6641-4789-ad00-df0af45ea5b6"/>
+<img width="1302" height="732" alt="Screenshot 2026-03-22 230631" src="https://github.com/user-attachments/assets/337b08c4-6641-4789-ad00-df0af45ea5b6"/>
 	
 ## Key Insights
 -	Total sales reached 769M, with 19K units sold across ~4K transactions, indicating strong market demand 
