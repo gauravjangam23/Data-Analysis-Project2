@@ -21,7 +21,7 @@ To analyze mobile sales data and develop an interactive dashboard using Microsof
 -	Digital payment methods (UPI, Cards) dominate over cash transactions 
 -	Certain products show a strong correlation between high ratings and high sales, indicating customer preference patterns 
 
-##Final Conclusion
+## Final Conclusion
 The dashboard demonstrates that sales performance is driven by a combination of regional demand, product popularity, and customer satisfaction.
 Using Microsoft Power BI and Power Query, the project transforms raw sales data into meaningful insights through interactive visualizations.
 The analysis helps :
